@@ -8,3 +8,4 @@ cmake ..
 make
 ./path_smoother_example 
 
+详见博客地址：https://blog.csdn.net/caokaifa/article/details/117827658?spm=1001.2014.3001.5501
