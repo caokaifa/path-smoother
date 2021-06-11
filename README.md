@@ -1,3 +1,4 @@
+![Screenshot from 2021-06-11 22-31-58](https://user-images.githubusercontent.com/21233498/121705081-e9577f80-cb06-11eb-9a4d-0862e272d7e7.png)
 # path-smoother
 trajectory optimization
 
